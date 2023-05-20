@@ -1,1 +1,4 @@
-# RepositorioHenry
+
+john duarte 
+
+primer ejercicio git 
